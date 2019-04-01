@@ -39,7 +39,7 @@ export default {
   },
   data () {
     return {
-      intention: 'web前端'
+      intention: '前端'
     }
   },
   created () {
